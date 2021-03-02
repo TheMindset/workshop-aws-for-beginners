@@ -1,1 +1,1 @@
-# workshop-aws-for-beginners
+# Workshop AWS for beginners
